@@ -2,8 +2,7 @@
 
 # 💫 About Me:
 
-I am a second-year computer science bachelor student at MONASTIR University, passionate about exploring the realms of coding, machine learning, and building robust applications.
-
+I am a computer science bachelor's student at Monastir University, passionate about exploring coding, web development, and building robust applications.
 ## 🌐 Connect with me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chaher.bahri.9/)
@@ -13,7 +12,7 @@ I am a second-year computer science bachelor student at MONASTIR University, pas
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring new coding techniques and improve my skills in web dev
+- 🤖 Exploring new coding techniques and improving my skills in web dev
 - 💻 Building new Application
 
 # 💻 Tech Stack:
